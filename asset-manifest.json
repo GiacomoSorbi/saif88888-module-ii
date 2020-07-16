@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/saif88888-module-ii/static/css/main.0df4294a.chunk.css",
+    "main.js": "/saif88888-module-ii/static/js/main.e75633e0.chunk.js",
+    "main.js.map": "/saif88888-module-ii/static/js/main.e75633e0.chunk.js.map",
+    "runtime-main.js": "/saif88888-module-ii/static/js/runtime-main.bca79e1a.js",
+    "runtime-main.js.map": "/saif88888-module-ii/static/js/runtime-main.bca79e1a.js.map",
+    "static/js/2.ec86b53c.chunk.js": "/saif88888-module-ii/static/js/2.ec86b53c.chunk.js",
+    "static/js/2.ec86b53c.chunk.js.map": "/saif88888-module-ii/static/js/2.ec86b53c.chunk.js.map",
+    "index.html": "/saif88888-module-ii/index.html",
+    "precache-manifest.83bb0d2454165cdfa492fa9137e8f44c.js": "/saif88888-module-ii/precache-manifest.83bb0d2454165cdfa492fa9137e8f44c.js",
+    "service-worker.js": "/saif88888-module-ii/service-worker.js",
+    "static/css/main.0df4294a.chunk.css.map": "/saif88888-module-ii/static/css/main.0df4294a.chunk.css.map",
+    "static/js/2.ec86b53c.chunk.js.LICENSE.txt": "/saif88888-module-ii/static/js/2.ec86b53c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bca79e1a.js",
+    "static/js/2.ec86b53c.chunk.js",
+    "static/css/main.0df4294a.chunk.css",
+    "static/js/main.e75633e0.chunk.js"
+  ]
+}
