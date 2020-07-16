@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f1233cc2d2a296d7ccb8862af30cc4c0",
+    "revision": "dc49b892f42e56caa4cbea944d6e9c12",
     "url": "/saif88888-module-ii/index.html"
   },
   {
-    "revision": "97002e7d90827e368b9f",
+    "revision": "302c65b94ae9ad6f488a",
     "url": "/saif88888-module-ii/static/css/main.0df4294a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/saif88888-module-ii/static/js/2.24fb963e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "97002e7d90827e368b9f",
-    "url": "/saif88888-module-ii/static/js/main.cab95a06.chunk.js"
+    "revision": "302c65b94ae9ad6f488a",
+    "url": "/saif88888-module-ii/static/js/main.f4eb356c.chunk.js"
   },
   {
     "revision": "e2c9b8f0641da8d52d39",
