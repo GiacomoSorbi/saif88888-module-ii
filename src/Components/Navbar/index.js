@@ -32,10 +32,10 @@ const Navbar = () => {
           </ListItem>
 
           <ListItem>
-            <Anchor href="/Profile">Profile</Anchor>
+            <Link to="/Profile">Profile</Link>
           </ListItem>
           <ListItem>
-            <Anchor href="/Work">Work</Anchor>
+            <Link to="/Work">Work</Link>
           </ListItem>
           <ListItem>
             <Link to="/contact">Contact</Link>
