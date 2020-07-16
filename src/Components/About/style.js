@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const AboutSection = styled.div`
   height: 500px;
-  background: url("../images/Home.jpg");
+  background: url("https://github.com/GiacomoSorbi/saif88888-module-ii/blob/gh-pages/images/Home.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
