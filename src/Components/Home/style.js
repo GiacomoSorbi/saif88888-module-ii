@@ -1,12 +1,15 @@
 import styled from "styled-components";
 
 export const HomeSection = styled.div`
-  height: 850px;
+  height: 1100px;
   background-image: url("images/Sayiff.jpg");
   background-size: cover;
   background-position: center;
   text-align: center;
   position: relative;
+  @media (max-width: 767px) {
+    height: 850px;
+  }
 `;
 
 export const HomeInformation = styled.div`

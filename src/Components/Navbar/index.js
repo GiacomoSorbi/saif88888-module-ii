@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import Logoo from "./logo.gif";
 
 import {
   NavbarSection,
@@ -7,7 +8,6 @@ import {
   LogoText,
   UlList,
   ListItem,
-  Anchor,
   Img,
 } from "./style.js";
 
@@ -17,12 +17,7 @@ const Navbar = () => {
       <div className="container">
         <Logo>
           <LogoText>
-            <Anchor>
-              <Img
-                src="https://images.cooltext.com/5443096.gif"
-                alt="My profile"
-              />
-            </Anchor>
+            <Img src={Logoo} />
           </LogoText>
         </Logo>
 
