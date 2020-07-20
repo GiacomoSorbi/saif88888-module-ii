@@ -2,6 +2,7 @@ import styled from "styled-components";
 
 export const HomeSection = styled.div`
   height: 1100px;
+  width: 100%;
   background-image: url("images/Sayiff.jpg");
   background-size: cover;
   background-position: center;

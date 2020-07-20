@@ -28,6 +28,7 @@ export const InfoDir = styled.h4`
 `;
 export const InfoDesc = styled.p`
   color: white;
+  font-size: 20px;
   margin-bottom: 15px;
   line-height: 1.8;
   @media (max-width: 991px) {

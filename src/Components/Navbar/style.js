@@ -37,9 +37,9 @@ export const UlList = styled.ul`
 
 export const ListItem = styled.li`
   display: inline;
-  color: white;
-  padding: 5px;
+  padding: 10px;
   text-decoration: none;
+  background-color: salmon;
 `;
 
 export const Anchor = styled.a`
