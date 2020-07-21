@@ -6,7 +6,6 @@ import {
   PortfolioItem,
   Span,
   Overlay,
-  OverlaySpan,
   ImageWrapper,
   Image,
 } from "./style.js";
@@ -24,9 +23,7 @@ const Portfolio = () => {
     return (
       <ImageWrapper key={imageItem.id}>
         <Image src={imageItem.image} alt="" />
-        <Overlay>
-          <OverlaySpan>Show Image</OverlaySpan>
-        </Overlay>
+        <Overlay></Overlay>
       </ImageWrapper>
     );
   });

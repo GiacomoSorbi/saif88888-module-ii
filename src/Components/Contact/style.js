@@ -50,3 +50,4 @@ export const InputSubmit = styled(Input)`
   color: #888;
   cursor: pointer;
 `;
+

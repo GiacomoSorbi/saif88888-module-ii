@@ -13,7 +13,12 @@ import {
 } from "./style.js";
 import SocialMedia from "./../SocialMedia";
 import Footer from "./../Footer";
+
 const Contact = () => {
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    alert("Thank you for submitting");
+  };
   return (
     <React.Fragment>
       <ContactSection>
@@ -21,7 +26,7 @@ const Contact = () => {
           <ContactTitle>
             <Span>Drop </Span>Me A line
           </ContactTitle>
-          <Form action="">
+          <Form onSubmit={handleSubmit}>
             <FormInput>
               <InputText type="text" placeholder="Your Name" />
               <InputEmail type="email" placeholder="Your Email" />

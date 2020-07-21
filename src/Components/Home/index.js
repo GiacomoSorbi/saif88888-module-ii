@@ -7,7 +7,6 @@ import {
   HomeInfo,
   HomeDesc,
   Span,
-  HomeBtn,
 } from "./style.js";
 const Home = () => {
   return (
@@ -21,7 +20,6 @@ const Home = () => {
             creating modern and resposive designs to Web and Mobile. Let us work
             together. Thank you.
           </HomeDesc>
-          <HomeBtn>Let's Begin</HomeBtn>
         </HomeInformation>
       </div>
     </HomeSection>
